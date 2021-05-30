@@ -1,0 +1,13 @@
+C:\Users\nsmol\source\repos\ЗаданиеИТ\ЗаданиеИТ\bin\Debug\netcoreapp3.1\ЗаданиеИТ.exe
+C:\Users\nsmol\source\repos\ЗаданиеИТ\ЗаданиеИТ\bin\Debug\netcoreapp3.1\ЗаданиеИТ.deps.json
+C:\Users\nsmol\source\repos\ЗаданиеИТ\ЗаданиеИТ\bin\Debug\netcoreapp3.1\ЗаданиеИТ.runtimeconfig.json
+C:\Users\nsmol\source\repos\ЗаданиеИТ\ЗаданиеИТ\bin\Debug\netcoreapp3.1\ЗаданиеИТ.runtimeconfig.dev.json
+C:\Users\nsmol\source\repos\ЗаданиеИТ\ЗаданиеИТ\bin\Debug\netcoreapp3.1\ЗаданиеИТ.dll
+C:\Users\nsmol\source\repos\ЗаданиеИТ\ЗаданиеИТ\bin\Debug\netcoreapp3.1\ЗаданиеИТ.pdb
+C:\Users\nsmol\source\repos\ЗаданиеИТ\ЗаданиеИТ\obj\Debug\netcoreapp3.1\ЗаданиеИТ.csprojAssemblyReference.cache
+C:\Users\nsmol\source\repos\ЗаданиеИТ\ЗаданиеИТ\obj\Debug\netcoreapp3.1\ЗаданиеИТ.AssemblyInfoInputs.cache
+C:\Users\nsmol\source\repos\ЗаданиеИТ\ЗаданиеИТ\obj\Debug\netcoreapp3.1\ЗаданиеИТ.AssemblyInfo.cs
+C:\Users\nsmol\source\repos\ЗаданиеИТ\ЗаданиеИТ\obj\Debug\netcoreapp3.1\ЗаданиеИТ.csproj.CoreCompileInputs.cache
+C:\Users\nsmol\source\repos\ЗаданиеИТ\ЗаданиеИТ\obj\Debug\netcoreapp3.1\ЗаданиеИТ.dll
+C:\Users\nsmol\source\repos\ЗаданиеИТ\ЗаданиеИТ\obj\Debug\netcoreapp3.1\ЗаданиеИТ.pdb
+C:\Users\nsmol\source\repos\ЗаданиеИТ\ЗаданиеИТ\obj\Debug\netcoreapp3.1\ЗаданиеИТ.genruntimeconfig.cache
